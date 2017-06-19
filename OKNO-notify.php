@@ -2,8 +2,9 @@
 
 /**
  * OKNO-notify
- *
+ * v.1.0
  * @author Kamil Żywolewski <k.zywolewski@dhcorp.eu>
+ * @link https://github.com/kamzyw/OKNO-notify
  */
 
 define('OKNO', true);
