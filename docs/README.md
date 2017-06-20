@@ -1,4 +1,4 @@
-# OKNO-notify
+# OKNO-notify v1.0
 Sprawdza, czy nie ma nowych ocen na Platformie Administracyjnej OKNO Politechniki Warszawskiej
 
 ## Wymagania 
